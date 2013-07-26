@@ -1,0 +1,33 @@
+.da2nhover-wrapper
+{
+    margin:auto;
+    position:relative;
+    display: inline-block;
+}
+.da2nhover-wrapper>img
+{
+    position: absolute;
+    z-index: 1;
+}
+.da2nhover-before
+{
+    position: absolute;
+    z-index: 5;
+}
+.da2nhover-after
+{
+    position: absolute;
+    z-index: 10;
+}
+.da2nhover-slice {
+    display:block;
+    position:absolute;
+    z-index:15;
+    height:100%;
+}
+.da2nhover-box
+{
+    display:block;
+    position:absolute;
+    z-index:15;
+}
