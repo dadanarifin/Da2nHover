@@ -13,15 +13,15 @@ jQuery(function(){
 
 === Options ===
 
-'startEffect'   : 'transparent',
-'hoverEffect'   : 'normal', //hovereffect: normal,sliceDown,sliceDownLeft,sliceUp,sliceUpLeft
-'imageOpacity'  : 0.5,
-'animSpeed'     : 300,
-'fillColor'     : '#000',
-'textColor'     : '#fff',
-'overlayText'   : '',
-'slices'        : 10,
-'boxCols'       : 5,
-'boxRows'       : 3,
-'MarginOut'     : 10,
-'ShadowOut'     : 10
+'startEffect'   : 'transparent', 
+'hoverEffect'   : 'normal', //hovereffect: normal,sliceDown,sliceDownLeft,sliceUp,sliceUpLeft 
+'imageOpacity'  : 0.5, 
+'animSpeed'     : 300, 
+'fillColor'     : '#000', 
+'textColor'     : '#fff', 
+'overlayText'   : '', 
+'slices'        : 10, 
+'boxCols'       : 5, 
+'boxRows'       : 3, 
+'MarginOut'     : 10, 
+'ShadowOut'     : 10 
